@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@selcuk_selcuk327](https://medium.com/@selcuk_selcuk327)
 
-- 📫 How to reach me **selcuk_selcuk327@hotmail.com**
+- 📫 How to reach me **ahmetselcukarikan@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/selçuk-arıkan](www.linkedin.com/in/selçuk-arıkan)
 
