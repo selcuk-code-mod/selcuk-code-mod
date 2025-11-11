@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selcuk-code-mod&label=Profile%20views&color=0e75b6&style=flat" alt="selcuk-code-mod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selcuk-code-mod" alt="selcuk-code-mod" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selcuk-code-mod" alt="selcuk-code-mod" /></a> </p> -->
 
 - 📝 I regularly write articles on [https://medium.com/@selcuk_selcuk327](https://medium.com/@selcuk_selcuk327)
 
